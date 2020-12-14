@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>1.0.0</Version>
     <Copyright>Copyright © 2014-2018 redmanmale</Copyright>
     <Description>https://github.com/redmanmale/ReverseGeocoder</Description>
   </PropertyGroup>
